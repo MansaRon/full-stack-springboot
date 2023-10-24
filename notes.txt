@@ -1,0 +1,8 @@
+// TODO
+
+1. Create budget cap for groceries if they exceed budget set
+2. Add exceptions for negative user case scenario.
+3. Add testing for services.
+4. Add Dockerfile
+5. Add user email registration.
+6. Add Admin portal business logic.
